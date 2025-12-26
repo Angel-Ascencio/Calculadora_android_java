@@ -1,6 +1,6 @@
 # Calculadora basica 
 
-Calculadora basica para android realizada en java la cual realiza las operaciones basicas de:
+Calculadora basica para android realizada en java para una practica de la universidad la cual realiza las operaciones basicas de:
 
 * Suma.
 * Resta.
